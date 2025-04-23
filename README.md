@@ -1,3 +1,3 @@
-<p align="center">
-![My Name GIF](./mygif.gif)
-</p>
+<div align="center">
+  <img src="./mygif.gif" alt="My Name GIF" />
+</div>
